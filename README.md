@@ -41,6 +41,8 @@ This topic is a part of [My Complete Andorid Course](https://github.com/ananddas
 
 # App Highlight
 
-<img src="app_images/Snackbar Code.png" width="1000" /><br>
+![Snackbar App1](https://user-images.githubusercontent.com/74413402/192092704-43d0080e-7429-48d6-a26c-72777fb8f64d.png)
+![Snackbar App2](https://user-images.githubusercontent.com/74413402/192092705-4b88c8c1-c7fc-4432-9fb7-d20b07ce7f60.png)
+![Snackbar App3](https://user-images.githubusercontent.com/74413402/192092706-beca7ec9-d608-4c22-83d8-0311c3eb4037.png)
+![Snackbar Code](https://user-images.githubusercontent.com/74413402/192092707-d97264da-ee06-4098-b420-c8214ef83ea7.png)
 
-<img src="app_images/Snackbar App1.png" width="300" /> <img src="app_images/Snackbar App2.png" width="300" /> <img src="app_images/Snackbar App3.png" width="300" />
